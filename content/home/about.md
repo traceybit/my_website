@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Natural resource management",
+    "Enviromental justice",
+    "Philosophy & ethics",
+    "Bravo Real Housewives"
   ]
 
 # List your qualifications (such as academic degrees).
