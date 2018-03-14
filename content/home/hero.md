@@ -19,9 +19,9 @@ weight = 3
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-  # url = "./post/getting-started/"
-  # label = '<i class="fa fa-download"></i> Install Now'
+# [cta]
+#   url = "./post/getting-started/"
+#   label = '<i class="fa fa-download"></i> Install Now'
 +++
 
 Reach for the stars :rocket:
